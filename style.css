@@ -1,4 +1,22 @@
-header {
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabecario{
     background-color: #424E61;
     color: white;
+    display:flex;
+    justify- content:space-around;
+    align-items: center;
+    padding: 24px
+}
+
+.cabecario-imagem{
+windth: 20%;
+
+
+.cabecario-lista-item{
+  display: inline-bllock;
+  margin; 0  16px;
+  font-size: 24px
 }
